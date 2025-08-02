@@ -1,0 +1,10 @@
+No external dependencies required.
+
+This project only uses Python's built-in modules:
+
+-socket
+-threading
+-sys
+-time
+ You can run this script with any standard Python 3 installation.
+
